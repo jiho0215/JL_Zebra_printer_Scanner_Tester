@@ -1,0 +1,7 @@
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\Debug\JL_Zebra Printer_Scanner_Tester.csprojResolveAssemblyReference.cache
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\Debug\JL_Zebra_Printer_Scanner_Tester.Properties.Resources.resources
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\Debug\JL_Zebra Printer_Scanner_Tester.csproj.GenerateResource.Cache
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\Debug\JL_Zebra Printer_Scanner_Tester.exe
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\Debug\JL_Zebra Printer_Scanner_Tester.exe
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\Debug\JL_Zebra Printer_Scanner_Tester.pdb

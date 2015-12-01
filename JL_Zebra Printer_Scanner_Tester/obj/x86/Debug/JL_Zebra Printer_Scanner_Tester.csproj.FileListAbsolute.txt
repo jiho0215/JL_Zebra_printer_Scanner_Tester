@@ -1,0 +1,27 @@
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.csprojResolveAssemblyReference.cache
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra_Printer_Scanner_Tester.Properties.Resources.resources
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.csproj.GenerateResource.Cache
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+G:\Personal\Programming\C#2015\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+\\Mesdev\공유\JL\PG\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+\\Mesdev\공유\JL\PG\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.csprojResolveAssemblyReference.cache
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra_Printer_Scanner_Tester.Properties.Resources.resources
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.csproj.GenerateResource.Cache
+C:\Program Files\UnifySystems\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra_Printer_Scanner_Tester.Form1.resources
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.csprojResolveAssemblyReference.cache
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra_Printer_Scanner_Tester.Form1.resources
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra_Printer_Scanner_Tester.Properties.Resources.resources
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.csproj.GenerateResource.Cache
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+C:\Users\MALP0080\Documents\Visual Studio 2015\Projects\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\bin\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
+C:\Users\MALP0080\Documents\GitHub\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.exe
+C:\Users\MALP0080\Documents\GitHub\JL_Zebra Printer_Scanner_Tester\JL_Zebra Printer_Scanner_Tester\obj\x86\Debug\JL_Zebra Printer_Scanner_Tester.pdb
